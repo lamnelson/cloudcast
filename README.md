@@ -7,7 +7,7 @@ State-of-the-art weather application to be able to showcase current and weekly d
   Upon start up, the application will ask permission for location service.
 
 #### 2. Main Page
-  Display weather details of favorite city and the list of favorite cities:
+  Display weather details of favorite city and/of list of favorite cities:
  > * Name of the city
  > * Temperature
  > * TempMin
@@ -29,4 +29,8 @@ State-of-the-art weather application to be able to showcase current and weekly d
  > * Pressure
   
 #### 5. Settings Page
-  Allow user to toggle unit for temperature/wind speed of either: imperial and metric; allow user to toggle location services to get current location for the weather.
+ Allow user to toggle units for user preference
+ > * Imperial or Metric for Temperature
+ > * Imperial or Metric for Wind Speed
+ Allow user to toggle on/off location services
+ Allow user to clear data on device for user privacy
