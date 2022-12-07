@@ -30,7 +30,7 @@ State-of-the-art weather application to be able to showcase current and weekly d
   
 #### 5. Settings Page
  Allow user to toggle units for user preference
- > * Imperial or Metric for Temperature
- > * Imperial or Metric for Wind Speed
+> * Imperial or Metric for Temperature
+> * Imperial or Metric for Wind Speed
  Allow user to toggle on/off location services
  Allow user to clear data on device for user privacy
